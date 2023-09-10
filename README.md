@@ -1,3 +1,3 @@
 # Course Goal
 
-App created only to learn different wahys to style react component
+App created only to learn different ways to style react component
